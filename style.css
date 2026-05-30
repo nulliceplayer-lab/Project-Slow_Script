@@ -2,7 +2,7 @@ body {
   text-align: center;
   background-color: #313131;
   color: azure;
-  background-image: url("background-image.png");
+  background-image: url("/background-image.png");
 }
 
 .button button {
